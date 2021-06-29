@@ -1,0 +1,10 @@
+.center{
+    position: relative;
+    left: 40%;
+}
+.page-content{
+    padding: 0px 200px;
+}
+.demo-list-control {
+    width: 300px;
+  }
